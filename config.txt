@@ -1,6 +1,6 @@
-token= NTAzMzkxNDExODI4MjkzNjU1.Dq1zhg.OtMPCwLUwa436MuKtrMgZ6q1AkE
-owner= 503324987898200074 
-prefix= 4
-game= Type 4help
+token= NTA1MTU4NzQwMjQxMjg1MTMz.DrPiAg.56jRR33lOy_E4_XXIhMDfhkRJ4g
+owner= 484702647925080065 
+prefix= el
+game= Type Elegant🗝
 stayinchannel=true 
 songinstatus=false 
