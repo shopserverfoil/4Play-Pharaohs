@@ -1,6 +1,6 @@
-token= NTA1MTU4NzQwMjQxMjg1MTMz.DrPiAg.56jRR33lOy_E4_XXIhMDfhkRJ4g
-owner= 484702647925080065 
-prefix= el
-game= Type Elegant🗝
+token= NTA4Nzg5Nzc1MTc2NTY0NzM2.DsEXig.s2pClEvkviC1mrapsNx5KNLijB4
+owner= 449199683210969099 
+prefix= Papa
+game= I Love You heart
 stayinchannel=true 
 songinstatus=false 
